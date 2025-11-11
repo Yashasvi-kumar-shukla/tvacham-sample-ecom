@@ -1,0 +1,11 @@
+node_modules/
+npm-debug.log
+.DS_Store
+
+dist/
+.env
+.env.*
+*.local
+
+*.db3
+*.db3-journal
